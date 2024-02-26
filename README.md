@@ -1,6 +1,8 @@
- Getting Started with Create React App
-Functionalities Used in todolist
-CRUD OPERATIONS
+# Getting Started with Create React App
+ 
+# Functionalities Used in todolist
+
+# CRUD OPERATIONS
 ---Create
 
     --->Create New Todo-Items 
@@ -13,7 +15,7 @@ CRUD OPERATIONS
 ---Update
     
     --->Update Todo-Items from existing items
-Hooks
+# Hooks
  ---useState
     
     --->intializing and updating the value
